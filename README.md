@@ -41,7 +41,9 @@ Tecnologias utilizadas
 ======================
 * HTML
 * CSS
-* JavaScript
+* Typescript
+* Styled Components
+* NextJS
 
 
 
