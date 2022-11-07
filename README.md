@@ -25,18 +25,18 @@ Status do Projeto
 
 :construction: Projeto em construção :construction:
 
-[]Sidebar (recursos de acessibilidade)
-[][topics]Introducao
-[][topics]Codigos acessiveis
-[][topics]Recursos (plugins, leitor de tela, etc)
-[][topics]Artigos
+- [] Sidebar (recursos de acessibilidade)
+- [] [topics]Introducao
+- [] [topics]Codigos acessiveis
+- [] [topics]Recursos (plugins, leitor de tela, etc)
+- [] [topics]Artigos.
 
 Exemplos:
 
-#https://inclusive-components.design/
-#https://a11y-style-guide.com/style-guide/
-#https://deficiencia.org/dashboard_artigos
-#https://www2.camara.leg.br/acessibilidade/recursos-de-acessibilidade
+- https://inclusive-components.design/
+- https://a11y-style-guide.com/style-guide/
+- https://deficiencia.org/dashboard_artigos
+- https://www2.camara.leg.br/acessibilidade/recursos-de-acessibilidade
 
 
 Funcionalidades e Demonstração da Aplicação
