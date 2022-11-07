@@ -25,11 +25,11 @@ Status do Projeto
 
 :construction: Projeto em construção :construction:
 
-- [] Sidebar (recursos de acessibilidade)
-- [] [topics]Introducao
-- [] [topics]Codigos acessiveis
-- [] [topics]Recursos (plugins, leitor de tela, etc)
-- [] [topics]Artigos.
+- [ ] Sidebar (recursos de acessibilidade)
+- [ ] [topics]Introducao
+- [ ] [topics]Codigos acessiveis
+- [ ] [topics]Recursos (plugins, leitor de tela, etc)
+- [ ] [topics]Artigos.
 
 Exemplos:
 
